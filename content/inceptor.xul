@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<?xml-stylesheet href="chrome://inceptor/skin/inceptor.css" type="text/css"?> 
+
+<!DOCTYPE window SYSTEM "chrome://inceptor/locale/inceptor.dtd">
+
+<window id="inceptor" title="&inceptor.title;" width="1280" height="1024" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"  xmlns:html="http://www.w3.org/1999/xhtml">
+	<script src="base64.js" />
+	<script src="sqlite.js" />
+	<script src="inceptor.js"/>
+</window>

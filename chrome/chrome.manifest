@@ -1,0 +1,6 @@
+content		inceptor				file:../content/ xpcnativewrappers=yes
+locale		inceptor		en-US	file:../locale/en-US/
+skin		inceptor		default file:../style/
+content		branding				file:../branding/  
+locale		branding		en-US	file:../branding/
+
